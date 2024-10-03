@@ -1,0 +1,35 @@
+.down {
+  font-size: 10px;
+}
+.gray {
+  color: gray;
+}
+
+.back {
+  background-image: url(img2.jpg);
+  background-size: cover;
+}
+.s1 {
+  height: 480px;
+  width: 100%;
+}
+.u {
+  height: 550px;
+}
+.m {
+  height: 350px;
+  filter: blur(2px);
+}
+.n {
+  overflow: hidden;
+}
+
+.b {
+  height: 60px;
+  width: 60px;
+  background-color: aqua;
+}
+
+.circle {
+  border-radius: 50%;
+}

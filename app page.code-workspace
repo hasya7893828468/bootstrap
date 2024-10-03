@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../hedset/hedsetapp/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "app page"
+	}
+}
